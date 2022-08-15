@@ -9,6 +9,12 @@ CREATE TABLE IF NOT EXISTS public.users (
 CREATE UNIQUE INDEX IF NOT EXISTS users_email_idx ON public.users USING btree (email);
 
 INSERT INTO public.users (user_name,email,validts) VALUES
+     ('user4','email1@sample.com','2022-08-15 07:29:57.169'),
+     ('user7','email1@sample.com','2022-08-15 07:29:57.169'),
+     ('user6','email1@sample.com','2022-08-15 07:29:57.169'),
+     ('user5','email1@sample.com','2022-08-15 07:29:57.169'),
+     ('user3','email1@sample.com','2022-08-15 07:29:57.169'),
+     ('user2','email1@sample.com','2022-08-15 07:29:57.169'),
 	 ('user1','email1@sample.com','2023-08-15 07:29:57.169');
 
 
