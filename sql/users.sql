@@ -5,3 +5,6 @@ CREATE TABLE public.users (
 	validts timestamptz NOT NULL
 );
 CREATE UNIQUE INDEX users_email_idx ON public.users USING btree (email);
+
+INSERT INTO public.users (user_name,email,validts) VALUES
+	 ('user1','email1@sample.com','2023-08-15 07:29:57.169');
