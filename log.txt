@@ -1,0 +1,23 @@
+1660510761: info: Email email2@sample.com was verified and found invalid
+1660510766: info: Email email1@sample.com was successfully verified
+1660510767: info: Email email5@sample.com was successfully verified
+1660510770: info: Email email3@sample.com was successfully verified
+1660510776: info: Email email6@sample.com was successfully verified
+1660510784: info: An error happens while checking email email4@sample.com
+1660510785: info: Email email7@sample.com was verified and found invalid
+1660537077: info: Email Array is about to check
+1660537078: info: Email Array is about to check
+1660537079: info: Email Array is about to check
+1660537079: info: Email email4@sample.com was successfully verified
+1660537080: info: Email Array is about to check
+1660537084: info: Email email7@sample.com was successfully verified
+1660537085: info: Email email6@sample.com was verified and found invalid
+1660537087: info: Email Array is about to check
+1660537088: info: Email Array is about to check
+1660537089: info: Email email5@sample.com was successfully verified
+1660537089: info: Email email1@sample.com was verified and found invalid
+1660537089: info: Email email3@sample.com was successfully verified
+1660537092: info: Email Array is about to check
+1660537101: info: Email email2@sample.com was successfully verified
+1660538940: info: Email email1@sample.com is about to send
+1660538950: info: Email email1@sample.com was successfully sent
